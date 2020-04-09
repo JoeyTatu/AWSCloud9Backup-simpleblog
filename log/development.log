@@ -1,0 +1,1354 @@
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 10:56:26 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 41ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:03:05 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 967ms (Views: 966.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/posts.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/posts.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-1d1fddf91adc38ac2045c51f0a3e05ca97d07d24d15a4dcbf705009106489e69.js?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 193.1.209.157 at 2019-03-19 11:03:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:03:19 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:06:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 143ms (Views: 141.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 193.1.209.157 at 2019-03-19 11:06:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 193.1.209.157 at 2019-03-19 11:06:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:06:14 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 39ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:06:59 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:07:05 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:07:14 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 66ms (Views: 64.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:07:20 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 44ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:07:47 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 50ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 193.1.209.157 at 2019-03-19 11:08:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:12:55 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:16:08 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (46.8ms)
+Completed 200 OK in 66ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:18:05 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 30ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 11:18:15 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"cEE1D0kJac7Q0+9nIXwCk7QF+4uQPu//bvE0TE3yTbQYiFmWEvAOtLDShr/eYl2+JZYW6vZAylNF7bsWLNnvbQ==", "post"=>{"title"=>"Hello", "body"=>"Test"}, "commit"=>"Save Post"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (17.6ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.2ms)[0m  select sqlite_version(*)
+  [1m[36m (12.7ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreatePosts (20190319112107)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  CREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20190319112107"]]
+  [1m[35m (13.5ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:27:46 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 22ms (Views: 21.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 11:27:58 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:28:03 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 26ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 11:28:17 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NQ4lhLQy/ZRO5jxAw5Aq4zRIlyfbui9nUupk2RRNvEddx0kd78ua7i7nVZg8jnXOpdt6Rr3ECst59uuDdWYeng==", "post"=>{"title"=>"Post One", "body"=>"This is post one"}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "posts" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post One"], ["body", "This is post one"], ["created_at", "2019-03-19 11:28:17.699913"], ["updated_at", "2019-03-19 11:28:17.699913"]]
+  [1m[35m (15.5ms)[0m  commit transaction
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/1
+Completed 302 Found in 39ms (ActiveRecord: 17.1ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 11:28:17 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.6ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 57ms (Views: 36.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:30:45 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.8ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 41ms (Views: 36.5ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:30:54 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 21ms (Views: 19.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:33:22 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.5ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 26ms (Views: 24.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:45:18 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.6ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 33ms (Views: 29.1ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:47:34 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:48:04 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:48:35 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 21ms (Views: 19.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:54:39 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 31ms (Views: 29.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:55:19 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 38ms (Views: 37.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:56:17 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 25ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:56:19 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:57:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.6ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 25ms (Views: 22.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:57:23 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:57:38 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 11:57:52 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rTkaNAiOFbmFFXPQToNEIg0XeiTeq6mwcnD7ZoHc1HzF8HatU3dyw+UUGgixnRsPnISXRbjVjBxZbHQ84Pd2pQ==", "post"=>{"title"=>"Post Two", "body"=>"This is post two"}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "posts" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Post Two"], ["body", "This is post two"], ["created_at", "2019-03-19 11:57:52.436492"], ["updated_at", "2019-03-19 11:57:52.436492"]]
+  [1m[35m (15.1ms)[0m  commit transaction
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/2
+Completed 302 Found in 22ms (ActiveRecord: 15.9ms)
+
+
+Started GET "/posts/2" for 193.1.209.157 at 2019-03-19 11:57:52 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 2]]
+  Rendered posts/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 22ms (Views: 18.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 11:57:53 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:57:58 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 28ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 11:59:47 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/posts/new.html.erb:5: syntax error, unexpected ',', expecting ')'
+....append=( f.text_field (:title, {:class => 'form-control'}) ...
+...                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:5: syntax error, unexpected '}', expecting ')'
+...tle, {:class => 'form-control'}) );@output_buffer.safe_appen...
+...                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:10: syntax error, unexpected ',', expecting ')'
+...er.append=( f.text_area (:body, {:class => 'form-control'}) ...
+...                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:10: syntax error, unexpected '}', expecting ')'
+...ody, {:class => 'form-control'}) );@output_buffer.safe_appen...
+...                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:16: syntax error, unexpected keyword_end, expecting ')'
+'.freeze; end ;@output_buffer.to_s
+             ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:17: syntax error, unexpected keyword_ensure, expecting ')'
+/home/ubuntu/workspace/app/views/posts/new.html.erb:19: syntax error, unexpected keyword_end, expecting ')'):
+  app/views/posts/new.html.erb:5: syntax error, unexpected ',', expecting ')'
+  app/views/posts/new.html.erb:5: syntax error, unexpected '}', expecting ')'
+  app/views/posts/new.html.erb:10: syntax error, unexpected ',', expecting ')'
+  app/views/posts/new.html.erb:10: syntax error, unexpected '}', expecting ')'
+  app/views/posts/new.html.erb:16: syntax error, unexpected keyword_end, expecting ')'
+  app/views/posts/new.html.erb:17: syntax error, unexpected keyword_ensure, expecting ')'
+  app/views/posts/new.html.erb:19: syntax error, unexpected keyword_end, expecting ')'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (49.1ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:02:31 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:03:01 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 23ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:04:30 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:04:33 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kt/pl116zo6KddLMFeRc8bsYMZkJgeT/j0zZqjkeaiT6FoUOBoOp9Op0uxTq+gPcKovc+G//wVOkUFbwWDXI/Q==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts
+Completed 302 Found in 12ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:04:33 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:06:27 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.7ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 36ms (Views: 31.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:06:29 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:32 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AIzYFfj7GOvJZK09PtjAIk3prkUJrxvkUkQ12rIoRnpoRbSMowJ/kallxOXBxp8P3HpDJG/RPkh5WLqA0wPkow==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 27ms (Views: 22.2ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:42 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PLfEG2jrQnRSjG/kOU/RP8tj8M+wlfVZCmRzmF9T3R1UfqiCMxIlDjKNBjzGUY4SWvAdrtbr0PUhePzCPnh/xA==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 23ms (Views: 19.4ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:43 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PLfEG2jrQnRSjG/kOU/RP8tj8M+wlfVZCmRzmF9T3R1UfqiCMxIlDjKNBjzGUY4SWvAdrtbr0PUhePzCPnh/xA==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 27ms (Views: 22.8ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:43 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PLfEG2jrQnRSjG/kOU/RP8tj8M+wlfVZCmRzmF9T3R1UfqiCMxIlDjKNBjzGUY4SWvAdrtbr0PUhePzCPnh/xA==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 26ms (Views: 21.9ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:43 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PLfEG2jrQnRSjG/kOU/RP8tj8M+wlfVZCmRzmF9T3R1UfqiCMxIlDjKNBjzGUY4SWvAdrtbr0PUhePzCPnh/xA==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 24ms (Views: 20.1ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:43 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PLfEG2jrQnRSjG/kOU/RP8tj8M+wlfVZCmRzmF9T3R1UfqiCMxIlDjKNBjzGUY4SWvAdrtbr0PUhePzCPnh/xA==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 25ms (Views: 21.3ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:06:43 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"dTYZmqTulV6+JH8HR6w7/VnrWocKo18l5ZOjEGIp+xAd/3UD/xfyJN4lFt+4smTQyHi35mzdeonOjyxKAwJZyQ==", "post"=>{"title"=>"1", "body"=>""}, "commit"=>"Save Post"}
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered posts/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 25ms (Views: 21.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:16:04 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.5ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 25ms (Views: 22.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:16:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (19.5ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/posts/new.html.erb:3: syntax error, unexpected ':'
+...r.append=  form_for :post. url: posts_path do |f| @output_bu...
+...                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:5: syntax error, unexpected keyword_do_block, expecting keyword_end
+             @post.errors.full_messages.each do |msg| 
+                                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:23: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  app/views/posts/new.html.erb:3: syntax error, unexpected ':'
+  app/views/posts/new.html.erb:5: syntax error, unexpected keyword_do_block, expecting keyword_end
+  app/views/posts/new.html.erb:23: syntax error, unexpected keyword_ensure, expecting end-of-input
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (39.9ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:17:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 500 Internal Server Error in 26ms (ActiveRecord: 1.4ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/posts/new.html.erb:3: syntax error, unexpected ':'
+...r.append=  form_for :post. url: posts_path do |f| @output_bu...
+...                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:5: syntax error, unexpected keyword_do_block, expecting keyword_end
+             @post.errors.full_messages.each do |msg| 
+                                               ^
+/home/ubuntu/workspace/app/views/posts/new.html.erb:23: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  app/views/posts/new.html.erb:3: syntax error, unexpected ':'
+  app/views/posts/new.html.erb:5: syntax error, unexpected keyword_do_block, expecting keyword_end
+  app/views/posts/new.html.erb:23: syntax error, unexpected keyword_ensure, expecting end-of-input
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (58.2ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:18:41 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.9ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/posts/new.html.erb:23: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/posts/new.html.erb:25: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/posts/new.html.erb:23: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/posts/new.html.erb:25: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (38.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:21:02 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:21:04 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4U3Cnn5F5qQYPYxMZCJzWKCFwRucfNtyNHHIe8dwk0qJhK4HJbyB3ng85ZSbPCx1MRYsevoC/t4fbUchplsxkw==", "post"=>{"title"=>"", "body"=>""}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 31ms (Views: 25.7ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:21:08 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UGVBqykjLFuLYpfPo5xVKtVX3yHSztBVpPpKk5TbsAs4rC0yctpLIetj/hdcggoHRMQyQLSw9fmP5sXJ9fAS0g==", "post"=>{"title"=>"2", "body"=>""}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 27ms (Views: 22.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:28:39 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  Rendered posts/index.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/posts/index.html.erb:7: syntax error, unexpected '<', expecting keyword_end
+    </div>
+     ^
+/home/ubuntu/workspace/app/views/posts/index.html.erb:7: unterminated regexp meets end of file):
+  app/views/posts/index.html.erb:7: syntax error, unexpected '<', expecting keyword_end
+  app/views/posts/index.html.erb:7: unterminated regexp meets end of file
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (41.5ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:28:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.7ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 31ms (Views: 28.3ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:29:15 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.8ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 50ms (Views: 47.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:29:48 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 25ms (Views: 23.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/posts.1" for 193.1.209.157 at 2019-03-19 12:29:51 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as 
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 40ms (Views: 37.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/posts.1" for 193.1.209.157 at 2019-03-19 12:29:54 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as 
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 28ms (Views: 26.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts.2" for 193.1.209.157 at 2019-03-19 12:29:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as 
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 28ms (Views: 27.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts.2" for 193.1.209.157 at 2019-03-19 12:30:29 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as 
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 30ms (Views: 28.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/posts.1" for 193.1.209.157 at 2019-03-19 12:31:10 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as 
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 38ms (Views: 36.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:31:14 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.5ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 24ms (Views: 21.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:31:40 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 23ms (Views: 21.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts/1/edit" for 193.1.209.157 at 2019-03-19 12:31:42 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered posts/edit.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 28ms (Views: 25.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 12:34:25 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered posts/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 43ms (Views: 40.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 12:34:28 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.6ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 40ms (Views: 38.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:34:31 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 19.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/posts/1/edit" for 193.1.209.157 at 2019-03-19 12:34:33 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered posts/edit.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 28ms (Views: 25.8ms | ActiveRecord: 0.2ms)
+
+
+Started PATCH "/posts/1" for 193.1.209.157 at 2019-03-19 12:34:37 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+AbstractController::ActionNotFound (The action 'update' could not be found for PostsController):
+  actionpack (4.2.5) lib/abstract_controller/base.rb:132:in `process'
+  actionview (4.2.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.5) lib/action_controller/metal.rb:237:in `block in action'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:76:in `dispatch'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:45:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `each'
+  actionpack (4.2.5) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.5) lib/action_dispatch/routing/route_set.rb:817:in `call'
+  rack (1.6.8) lib/rack/etag.rb:24:in `call'
+  rack (1.6.8) lib/rack/conditionalget.rb:38:in `call'
+  rack (1.6.8) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.8) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.8) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:653:in `call'
+  activerecord (4.2.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.5) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:20:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.8) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.8) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.8) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.8) lib/rack/lock.rb:17:in `call'
+  rack (1.6.8) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.8) lib/rack/handler/webrick.rb:88:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /usr/local/rvm/rubies/ruby-2.3.4/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/unknown_action.html.erb within rescues/layout (0.9ms)
+
+
+Started GET "/posts/1/edit" for 193.1.209.157 at 2019-03-19 12:38:53 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered posts/edit.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 57ms (Views: 30.3ms | ActiveRecord: 1.5ms)
+
+
+Started PATCH "/posts/1" for 193.1.209.157 at 2019-03-19 12:38:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"NucKuIy5X0uW2fHohslqbGgzEyPZEQLRuX+pUwLVR6deLmYh10A4MfbYmDB51zVB+aD+Qr9vJ32SYyYJY/7lfg==", "post"=>{"title"=>"Post One", "body"=>"This is post 1"}, "commit"=>"Save Post", "id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  UPDATE "posts" SET "body" = ?, "updated_at" = ? WHERE "posts"."id" = ?  [["body", "This is post 1"], ["updated_at", "2019-03-19 12:38:57.597994"], ["id", 1]]
+  [1m[36m (14.2ms)[0m  [1mcommit transaction[0m
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/1
+Completed 302 Found in 25ms (ActiveRecord: 15.3ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:38:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.4ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 20.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:42:43 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 38ms (Views: 28.2ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 12:42:52 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:42:58 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"cCvh1n90mKVBst2YgwxEyG8gCDRDT+S3H1AeLogrlVoY4o1PJI3/3yGztEB8Ehvl/rPlVSUxwRs0TJF06QA3gw==", "post"=>{"title"=>"Test", "body"=>"Test"}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  Rendered posts/new.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 26ms (Views: 21.8ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/posts" for 193.1.209.157 at 2019-03-19 12:43:02 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qMMFOyqijDdBhgg+iSHLWO/k5W/gJMSD10yq7fOl9OvACmmicVvrTSGHYeZ2P5R1fncIDoZa4S/8UCW3ko5WMg==", "post"=>{"title"=>"Test1", "body"=>"Test"}, "commit"=>"Save Post"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "posts" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Test1"], ["body", "Test"], ["created_at", "2019-03-19 12:43:02.866115"], ["updated_at", "2019-03-19 12:43:02.866115"]]
+  [1m[35m (18.8ms)[0m  commit transaction
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/3
+Completed 302 Found in 25ms (ActiveRecord: 19.5ms)
+
+
+Started GET "/posts/3" for 193.1.209.157 at 2019-03-19 12:43:03 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered posts/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 21.8ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/posts/3" for 193.1.209.157 at 2019-03-19 12:43:19 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"gqHeMvDxp+1suINi3nQ5+OScD2nUdrr8hra0z5DflbLqaLKrqwjAlwy56rohambVdQ/iCLIIn1CtqjuV8fQ3aw==", "id"=>"3"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  DELETE FROM "posts" WHERE "posts"."id" = ?  [["id", 3]]
+  [1m[36m (38.9ms)[0m  [1mcommit transaction[0m
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts
+Completed 302 Found in 44ms (ActiveRecord: 39.7ms)
+
+
+Started GET "/posts" for 193.1.209.157 at 2019-03-19 12:43:19 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 24ms (Views: 22.2ms | ActiveRecord: 0.4ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateComments (20190319124453)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.5ms)[0m  [1mCREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "body" text, "post_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (0.1ms)[0m  [1mCREATE  INDEX "index_comments_on_post_id" ON "comments" ("post_id")[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20190319124453"]]
+  [1m[36m (14.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_comments_on_post_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_comments_on_post_id' AND type='index'
+[0m
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:56:33 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered posts/show.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 34ms (ActiveRecord: 1.1ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/posts/show.html.erb:30: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ubuntu/workspace/app/views/posts/show.html.erb:32: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/posts/show.html.erb:30: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/posts/show.html.erb:32: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (44.2ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:56:59 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mComment Load (0.5ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (82.0ms)
+Completed 200 OK in 185ms (Views: 181.3ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/assets/comments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 193.1.209.157 at 2019-03-19 12:57:00 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/comments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 193.1.209.157 at 2019-03-19 12:57:00 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/posts/1/comments" for 193.1.209.157 at 2019-03-19 12:57:53 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DG9vZmg9wXhKxPs0U51jUKwczvev2bRzqJ9NwMPy1yFkpgP/M8SmAirFkuysgzx9PY8jlsmnkd+Dg8Kaotl1+A==", "comment"=>{"username"=>"Brad", "body"=>"Great post"}, "commit"=>"Create Comment", "post_id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", nil]]
+Completed 404 Not Found in 3ms (ActiveRecord: 0.3ms)
+
+ActiveRecord::RecordNotFound (Couldn't find Post with 'id'=):
+  app/controllers/comments_controller.rb:4:in `create'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (37.0ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:59:01 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.4ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.4ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (19.8ms)
+Completed 200 OK in 69ms (Views: 55.2ms | ActiveRecord: 2.5ms)
+
+
+Started POST "/posts/1/comments" for 193.1.209.157 at 2019-03-19 12:59:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"pygwXH/Qbzj5UsW3TXvNmv3zkWcbhHwICVQI/9UciVXP4VzFJCkIQplTrG+yZZK3bGB8Bn36WaQiSIeltDcrjA==", "comment"=>{"username"=>"Brad", "body"=>"Great post!"}, "commit"=>"Create Comment", "post_id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "comments" ("username", "body", "post_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["username", "Brad"], ["body", "Great post!"], ["post_id", 1], ["created_at", "2019-03-19 12:59:09.816905"], ["updated_at", "2019-03-19 12:59:09.816905"]]
+  [1m[36m (16.6ms)[0m  [1mcommit transaction[0m
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/1
+Completed 302 Found in 24ms (ActiveRecord: 17.6ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:59:10 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 39ms (Views: 36.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:59:25 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 42ms (Views: 39.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:59:39 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 54ms (Views: 51.3ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/posts/1/comments" for 193.1.209.157 at 2019-03-19 12:59:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"QLvSBbRNmd0yoohT+hLkOd+3RMZ24WKB+ZwMMe39KRkocr6c77T+p1Kj4YsFDLsUTiSppxCfRy3SgINrjNaLwA==", "comment"=>{"username"=>"John Doe", "body"=>"Thank you!"}, "commit"=>"Create Comment", "post_id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "comments" ("username", "body", "post_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["username", "John Doe"], ["body", "Thank you!"], ["post_id", 1], ["created_at", "2019-03-19 12:59:57.211582"], ["updated_at", "2019-03-19 12:59:57.211582"]]
+  [1m[36m (13.7ms)[0m  [1mcommit transaction[0m
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/1
+Completed 302 Found in 21ms (ActiveRecord: 14.6ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 12:59:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered posts/show.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 33ms (Views: 31.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:03:18 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered comments/_comments.html.erb (0.7ms)
+  Rendered comments/_form.html.erb (0.6ms)
+  Rendered posts/show.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 40ms (Views: 38.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:03:37 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered comments/_comments.html.erb (0.1ms)
+  Rendered comments/_form.html.erb (0.1ms)
+  Rendered posts/show.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:03:56 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered comments/_comments.html.erb (0.1ms)
+  Rendered comments/_form.html.erb (0.1ms)
+  Rendered posts/show.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 29ms (Views: 27.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:04:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (2.9ms)
+  Rendered comments/_form.html.erb (4.1ms)
+  Rendered posts/show.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 40ms (Views: 38.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:06:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.4ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered comments/_comments.html.erb (2.7ms)
+  Rendered posts/show.html.erb within layouts/application (5.1ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.4ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/comments/_comments.html.erb:6: syntax error, unexpected ':', expecting ')'
+                    method: :delete
+                           ^
+/home/ubuntu/workspace/app/views/comments/_comments.html.erb:7: syntax error, unexpected ':', expecting ')'
+                    data: {confirm: 'Are you sure?' } ...
+                         ^):
+  app/views/comments/_comments.html.erb:6: syntax error, unexpected ':', expecting ')'
+  app/views/comments/_comments.html.erb:7: syntax error, unexpected ':', expecting ')'
+  app/views/posts/show.html.erb:11:in `_app_views_posts_show_html_erb___4038581093621449640_69889795548180'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (43.4ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:06:27 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered comments/_comments.html.erb (1.5ms)
+  Rendered posts/show.html.erb within layouts/application (3.3ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.3ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/comments/_comments.html.erb:6: syntax error, unexpected ':', expecting ')'
+                    method: :delete,
+                           ^):
+  app/views/comments/_comments.html.erb:6: syntax error, unexpected ':', expecting ')'
+  app/views/posts/show.html.erb:11:in `_app_views_posts_show_html_erb___4038581093621449640_69889795548180'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (42.2ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:07:52 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered comments/_comments.html.erb (1.7ms)
+  Rendered posts/show.html.erb within layouts/application (3.7ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 1.3ms)
+
+SyntaxError (/home/ubuntu/workspace/app/views/comments/_comments.html.erb:6: syntax error, unexpected ':', expecting ')'
+                    method: :delete,
+                           ^):
+  app/views/comments/_comments.html.erb:6: syntax error, unexpected ':', expecting ')'
+  app/views/posts/show.html.erb:11:in `_app_views_posts_show_html_erb___4038581093621449640_69889795548180'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (41.3ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:08:20 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.2ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.4ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (15.7ms)
+  Rendered comments/_form.html.erb (4.0ms)
+  Rendered posts/show.html.erb within layouts/application (22.8ms)
+Completed 200 OK in 54ms (Views: 50.9ms | ActiveRecord: 1.2ms)
+
+
+Started DELETE "/posts/1/comments/2" for 193.1.209.157 at 2019-03-19 13:08:25 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"MOCG+wwWmlJliB0NAcPJKW0vGheWnzaBaB30xNs3A/xYKepiV+/9KAWJdNX+3ZYE/Lz3dvDhEy1DAXueuhyhJQ==", "post_id"=>"1", "id"=>"2"}
+  [1m[35mPost Load (0.5ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+Completed 400 Bad Request in 6ms (ActiveRecord: 0.5ms)
+
+ActionController::ParameterMissing (param is missing or the value is empty: comment):
+  app/controllers/comments_controller.rb:17:in `comment_params'
+  app/controllers/comments_controller.rb:11:in `destroy'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (54.2ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:09:06 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mComment Load (0.7ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (21.3ms)
+  Rendered comments/_form.html.erb (3.9ms)
+  Rendered posts/show.html.erb within layouts/application (29.7ms)
+Completed 200 OK in 77ms (Views: 63.2ms | ActiveRecord: 2.9ms)
+
+
+Started DELETE "/posts/1/comments/2" for 193.1.209.157 at 2019-03-19 13:09:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"kTwupLPEhJNo2l+VI0P4VIRZ124DgGuxg/OnuK3IIub59UI96D3j6QjbNk3cXad5Fco6D2X+Th2o7yjizOOAPw==", "post_id"=>"1", "id"=>"2"}
+  [1m[36mPost Load (0.3ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mComment Load (0.6ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."post_id" = ? AND "comments"."id" = ? LIMIT 1  [["post_id", 1], ["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 2]]
+  [1m[36m (25.5ms)[0m  [1mcommit transaction[0m
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/1
+Completed 302 Found in 33ms (ActiveRecord: 26.9ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:09:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.2ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (2.3ms)
+  Rendered comments/_form.html.erb (3.0ms)
+  Rendered posts/show.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 37ms (Views: 35.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:12:34 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.3ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.4ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (17.1ms)
+  Rendered comments/_form.html.erb (3.7ms)
+  Rendered posts/show.html.erb within layouts/application (24.2ms)
+Completed 200 OK in 79ms (Views: 65.7ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 13:12:40 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+Filter chain halted as #<Proc:0x007f2109c06b20@/usr/local/rvm/gems/ruby-2.3.4/gems/actionpack-4.2.5/lib/action_controller/metal/http_authentication.rb:69> rendered or redirected
+Completed 401 Unauthorized in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 13:12:50 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 13:12:52 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 44ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 13:12:54 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/posts/new" for 193.1.209.157 at 2019-03-19 13:12:57 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 26ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 193.1.209.157 at 2019-03-19 13:13:03 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (0.3ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered posts/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 28ms (Views: 26.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:13:05 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mComment Load (0.3ms)[0m  SELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (2.1ms)
+  Rendered comments/_form.html.erb (2.5ms)
+  Rendered posts/show.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 32ms (Views: 29.5ms | ActiveRecord: 0.5ms)
+
+
+Started DELETE "/posts/1/comments/1" for 193.1.209.157 at 2019-03-19 13:13:08 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CommentsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"5ntgCL2/+w6std74lAhfczkGQOsHpcsGEuC4TwtPiGmOsgyR5kacdMy0tyBrFgBeqJWtimHb7qo5/DcVamQqsA==", "post_id"=>"1", "id"=>"1"}
+  [1m[36mPost Load (0.2ms)[0m  [1mSELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mComment Load (0.7ms)[0m  SELECT  "comments".* FROM "comments" WHERE "comments"."post_id" = ? AND "comments"."id" = ? LIMIT 1  [["post_id", 1], ["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  DELETE FROM "comments" WHERE "comments"."id" = ?  [["id", 1]]
+  [1m[36m (15.1ms)[0m  [1mcommit transaction[0m
+Redirected to https://simpleblog-keithfeeneynci.c9users.io/posts/1
+Completed 302 Found in 24ms (ActiveRecord: 16.8ms)
+
+
+Started GET "/posts/1" for 193.1.209.157 at 2019-03-19 13:13:09 +0000
+Cannot render console from 193.1.209.157! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPost Load (0.4ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mComment Load (0.3ms)[0m  [1mSELECT "comments".* FROM "comments" WHERE "comments"."post_id" = ?[0m  [["post_id", 1]]
+  Rendered comments/_comments.html.erb (2.6ms)
+  Rendered comments/_form.html.erb (6.1ms)
+  Rendered posts/show.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 60ms (Views: 56.9ms | ActiveRecord: 0.7ms)
+  [1m[36m (11.4ms)[0m  [1mDROP TABLE "comments"[0m
+  [1m[35m (11.6ms)[0m  CREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "body" text, "post_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (12.3ms)[0m  CREATE  INDEX "index_comments_on_post_id" ON "comments" ("post_id")
+  [1m[36m (11.5ms)[0m  [1mDROP TABLE "posts"[0m
+  [1m[35m (11.7ms)[0m  CREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (12.5ms)[0m  CREATE TABLE "comments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "body" text, "post_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.2ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (10.1ms)[0m  CREATE  INDEX "index_comments_on_post_id" ON "comments" ("post_id")
+  [1m[36m (11.7ms)[0m  [1mCREATE TABLE "posts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" text, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (13.6ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (10.3ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.3ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (8.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20190319124453')[0m
+  [1m[35m (11.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20190319112107')
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_comments_on_post_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_comments_on_post_id' AND type='index'
+[0m
